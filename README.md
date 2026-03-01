@@ -1,6 +1,6 @@
 # RS Performance A2A Diagnostic Protocols
 
-Pierwszy w Polsce otwarty, 4-etapowy protokół diagnozy systemowej pojazdów VAG/BMW/Mercedes zmapowany dla asystentów Model Context Protocol (MCP).
+Pierwszy w Polsce otwarty, 4-etapowy protokół diagnozy systemowej pojazdów VAG/BMW/Mercedes i wszystkie inne zmapowany dla asystentów Model Context Protocol (MCP).
 
 **Home URL:** [https://rsperformance.online/](https://rsperformance.online/)
 
